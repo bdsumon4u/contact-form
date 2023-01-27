@@ -10,7 +10,15 @@ Run the following commands.
 docker run -it -d -p 3030:3333 bdsumon4u/contact-form:latest
 ```
 
+You'll get a `container_id` which will be used to stop the container.
+
 Now go to your favorite browser & enter: `localhost:3030` to see the form.
+
+To stop the container, run the following command.
+
+```
+docker stop <container_id>
+```
 
 ### I don't want to use Docker
 
