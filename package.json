@@ -1,0 +1,31 @@
+{
+  "name": "contact-form",
+  "version": "1.0.0",
+  "description": "A simple contact form.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdsumon4u/contact-form.git"
+  },
+  "keywords": [
+    "contact",
+    "contact-us",
+    "contact-form",
+    "contact us",
+    "contact form",
+    "contact us form"
+  ],
+  "author": "Sumon Ahmed <bdsumon4u@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bdsumon4u/contact-form/issues"
+  },
+  "homepage": "https://github.com/bdsumon4u/contact-form#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
