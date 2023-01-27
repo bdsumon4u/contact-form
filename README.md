@@ -34,10 +34,8 @@ Now run following command.
 cd contact-form && npm install && npm run start
 ```
 
-Now got to your favorite browser & enter: `localhost:3030` to see the form.
+Now got to your favorite browser & enter: `localhost:3333` to see the form.
 
 ---
-
-
 
 > **Note:** If your port `80` is not using by any other services, then you can change the port `3030` to `80` and play with the form on the `localhost`.
